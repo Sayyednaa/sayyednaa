@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sayyednaa" alt="sayyednaa" /></a> </p>
 
-- 🌱 I’m currently learning **Python,JavaScript**
+- 🌱 I’m currently learning **Python,Android Development**
 
-- 💬 Ask me about **Python,Django,HTML,CSS,Javascript ,Linux**
+- 💬 Ask me about **Python,Django,HTML,CSS ,Linux,Java,Android Development**
 
 - 📫 How to reach me **Snawabaa@Gmail.com**
 
