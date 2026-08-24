@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Sayyed  Abdul Ali 👋
+# 💫 Hi there, I'm Sayyed  Nawab Abdul Ali 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d473&height=150&section=header&text=Sayyed%20Abdul%20Ali&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Header" />
